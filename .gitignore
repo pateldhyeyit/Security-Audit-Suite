@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# SQLite Database
+data/security_audit.db
+
+# File Integrity Database
+data/hashes.json
+
+# Logs
+logs/*.log
+
+# Generated Reports
+reports/*.json
+reports/*.csv
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
