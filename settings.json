@@ -1,0 +1,6 @@
+{
+    "app_name": "Security Audit Suite",
+    "version": "1.0.0",
+    "max_logs": 100,
+    "theme": "default"
+}
